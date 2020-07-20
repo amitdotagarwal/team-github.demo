@@ -1,3 +1,3 @@
 puts 'Praveen'
-puts 'Kulkarnis'
+puts 'Kulkarni'
 puts 'test'
